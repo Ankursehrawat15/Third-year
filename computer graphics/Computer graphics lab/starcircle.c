@@ -64,7 +64,7 @@ int main(int argc, char** argv)
     glutInit(&argc, argv);
     glutInitDisplayMode(GLUT_RGB);
     glutInitWindowSize(550, 550);
-    glutCreateWindow("Sumyak circle in star");
+    glutCreateWindow("Ankur");
     glutDisplayFunc(displayMe);
     glutMainLoop();
     return 0;
